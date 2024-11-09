@@ -1,0 +1,177 @@
+<div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="section-title">
+                        <h2>Welcome to the Freight Broker company of delevery</h2>
+                    </div>
+                </div>
+                <div class="col-lg-5 offset-lg-2">
+                    <div class="about__company__title">
+                        <p>Transport offers a host of logistic management services and supply chain solutions. We
+                            provide innovative solutions with the best people, processes, and technology to drive
+                        uncommon value for your company.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="about__company__pic">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-6">
+                        <img src="img/about/ac-1.jpg" alt="">
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6">
+                        <img src="img/about/ac-2.jpg" alt="">
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6">
+                        <img src="img/about/ac-3.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="about__company__counter">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="counter__item">
+                            <img src="img/about/ci-1.png" alt="">
+                            <div class="counter__item__num">
+                                <h2 class="c_num">9123</h2>
+                            </div>
+                            <h5>Employees in Team</h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                            ut labore et dolore magna aliqua.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="counter__item">
+                            <img src="img/about/ci-2.png" alt="">
+                            <div class="counter__item__num">
+                                <h2 class="c_num">70102</h2>
+                                <strong>km</strong>
+                            </div>
+                            <h5>Kilometer Travel Weekly</h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                            ut labore et dolore magna aliqua.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="counter__item">
+                            <img src="img/about/ci-3.png" alt="">
+                            <div class="counter__item__num">
+                                <h2 class="c_num">1254</h2>
+                            </div>
+                            <h5>Worldwide Clients</h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                            ut labore et dolore magna aliqua.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="counter__item">
+                            <img src="img/about/ci-4.png" alt="">
+                            <div class="counter__item__num">
+                                <h2 class="c_num">20254</h2>
+                            </div>
+                            <h5>Projects Done</h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+                            ut labore et dolore magna aliqua.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <section class="chooseus spad">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="chooseus__text">
+                            <div class="section-title">
+                                <span>Our Benefit</span>
+                                <h2>Why People Choose Us?</h2>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <div class="chooseus__item">
+                                        <div class="chooseus__item__icon">
+                                            <img src="img/chooseus/ci-1.png" alt="">
+                                        </div>
+                                        <div class="chooseus__item__text">
+                                            <h5>Warehouse Storage</h5>
+                                            <p>Order tendering is an initial stage of the transportation process.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <div class="chooseus__item">
+                                        <div class="chooseus__item__icon">
+                                            <img src="img/chooseus/ci-2.png" alt="">
+                                        </div>
+                                        <div class="chooseus__item__text">
+                                            <h5>Security Cargo</h5>
+                                            <p>While your freight is in transit, a 3PL tracks and manages it.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <div class="chooseus__item">
+                                        <div class="chooseus__item__icon">
+                                            <img src="img/chooseus/ci-3.png" alt="">
+                                        </div>
+                                        <div class="chooseus__item__text">
+                                            <h5>Easy Payment</h5>
+                                            <p>After tendering the load, freight brokers will place your.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <div class="chooseus__item">
+                                        <div class="chooseus__item__icon">
+                                            <img src="img/chooseus/ci-4.png" alt="">
+                                        </div>
+                                        <div class="chooseus__item__text">
+                                            <h5>Fast Delivery</h5>
+                                            <p>Carrier agrees to spot or drop trailers or vehicles at.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="chooseus__pic set-bg" data-setbg="img/chooseus/chooseus-pic.png" style="background-image: url(&quot;img/chooseus/chooseus-pic.png&quot;);"></div>
+            </div>
+        </section>
+
+
+
+
+        <section class="history spad">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="history__item">
+                            <span>1</span>
+                            <h2>History</h2>
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="history__item">
+                            <span>2</span>
+                            <h2>Mission</h2>
+                            <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default
+                            model text, and a search for us will uncover.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="history__item">
+                            <span>3</span>
+                            <h2>Vission</h2>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a
+                            page when looking at its layout.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
